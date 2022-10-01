@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/con-ra/prj-color-palette/static/css/main.26206918.css",
+    "main.js": "/con-ra/prj-color-palette/static/js/main.2fac42be.js",
+    "static/js/787.0fb6e0a2.chunk.js": "/con-ra/prj-color-palette/static/js/787.0fb6e0a2.chunk.js",
+    "index.html": "/con-ra/prj-color-palette/index.html",
+    "main.26206918.css.map": "/con-ra/prj-color-palette/static/css/main.26206918.css.map",
+    "main.2fac42be.js.map": "/con-ra/prj-color-palette/static/js/main.2fac42be.js.map",
+    "787.0fb6e0a2.chunk.js.map": "/con-ra/prj-color-palette/static/js/787.0fb6e0a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26206918.css",
+    "static/js/main.2fac42be.js"
+  ]
+}
