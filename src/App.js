@@ -6,6 +6,7 @@ import { useEffect, useState } from 'react';
 import { getColorPalettes } from './service';
 import { ColorPalettesContext} from './context/ColorPalettesContext'
 
+
 function App() {
   const [colorPalettes, setColorPalettes] = useState([]);
   useEffect(()=> {
@@ -22,6 +23,7 @@ function App() {
           <Routes>
             <Route path='/' element={<Home/>}/>
             <Route path='/palette/:id' element={<PaletteDisplay/>}/>
+            
           </Routes>
         </ColorPalettesContext.Provider>
       </div>
